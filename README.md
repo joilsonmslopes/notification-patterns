@@ -151,3 +151,5 @@ Esse resultado comprova a execução bem-sucedida dos três testes existentes; n
 ---
 
 Este repositório tem finalidade educacional. As validações e os envios são intencionalmente simplificados para manter o foco em arquitetura, orientação a objetos e testes.
+
+[Strategy + Registry Pattern com Java: aprendendo arquitetura além dos frameworks](https://lnkd.in/p/dsZN3g4U)
